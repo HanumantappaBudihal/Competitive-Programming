@@ -1,0 +1,1 @@
+https://www.geeksforgeeks.org/searching-algorithms/  - all seaching related problems
