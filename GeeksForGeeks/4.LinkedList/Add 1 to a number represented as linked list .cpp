@@ -1,6 +1,9 @@
 // { Driver Code Starts
 //Initial template for C++
 
+//Best approach 
+
+
 #include <bits/stdc++.h> 
 using namespace std; 
 
@@ -122,3 +125,6 @@ int main()
     return 0; 
 } 
   // } Driver Code Ends
+
+
+  //
