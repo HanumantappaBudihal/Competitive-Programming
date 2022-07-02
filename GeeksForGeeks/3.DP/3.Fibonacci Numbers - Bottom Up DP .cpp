@@ -26,7 +26,7 @@ class Solution
         {
           K[i]=K[i-1]+K[i-2];
         }
-        
+         
     return K[number];
     }
 };
