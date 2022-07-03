@@ -23,7 +23,7 @@ public:
 };
 
 //Top down approach
-
+// 435 ms
 class Solution {
 public:
     
@@ -66,7 +66,7 @@ public:
 };
 
 //Bottom up - tabulation
-
+// 4ms
 class Solution {
 public:
     
