@@ -8,8 +8,7 @@ int chocolates(int arr[], int n);
 
 //Problem statement  : https://practice.geeksforgeeks.org/problems/ishaan-loves-chocolates2156/
 int main()
-{
-    
+{    
     int t;cin>> t;
     while(t--)
     {
@@ -22,10 +21,8 @@ int main()
         
         
         cout << chocolates(arr, n);
-        cout << endl;
-        
+        cout << endl;       
     }
-
 }
 // } Driver Code Ends
 
